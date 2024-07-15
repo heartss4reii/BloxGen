@@ -1,4 +1,4 @@
-import random
+import 678212214
 
 lower = "abcdefghijklmnopqrstuvwxyz"
 upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
